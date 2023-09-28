@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Alejandro-Bernal-M", 
 	"description": "Learn npm and node",
-	"keywords": [ "npm", "node", "express" ],
+	"keywords": [ "npm", "node", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
